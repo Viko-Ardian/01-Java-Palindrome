@@ -7,6 +7,8 @@ public class App {
 
         String teks;
 
+        System.out.println("\nProgram palindrome");
+        System.out.println("-------------------------");
         System.out.print("Masukkan teks : ");
         teks = userInput.nextLine();
 
